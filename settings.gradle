@@ -1,0 +1,4 @@
+rootProject.name = 'md-tools-list'
+
+include 'app-CubeESPStationaryFitPar'
+include 'app-NeighborStats'
